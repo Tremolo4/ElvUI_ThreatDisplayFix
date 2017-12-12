@@ -7,3 +7,4 @@
 embeds.xml
 
 ElvUI_ThreatDisplayFix.lua
+oUF_threatindicator.lua

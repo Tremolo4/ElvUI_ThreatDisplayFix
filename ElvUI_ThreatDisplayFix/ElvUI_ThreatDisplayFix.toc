@@ -2,7 +2,7 @@
 ## Author: Tremolo4
 ## Version: 0.1
 ## Title: |cffA11313E|r|cffC4C4C4lvUI|r ThreatDisplayFix
-## RequiredDeps: ElvUI, Omen
+## RequiredDeps: ElvUI
 
 embeds.xml
 
